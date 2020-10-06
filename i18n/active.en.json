@@ -1,0 +1,8 @@
+{
+  "poll.updateVote.maxVotes": {
+    "few": "few",
+    "many": "many",
+    "one": "one",
+    "other": "other"
+  }
+}
